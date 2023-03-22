@@ -1,1 +1,1 @@
-# csce313-projects
+# CSCE 313 - Embedded Systems
